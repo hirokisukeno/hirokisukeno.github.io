@@ -2,96 +2,76 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Hiroki Sukeno
     - name: Languages
-      value: English, German
+      value: Japanese, English 
 
-- title: Education
+- title: Degree
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - year: 2025 (expected)
+      title: PhD
+      institution: Stony Brook University, USA
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor Prof. Tzu-Chieh Wei
+        - Quantum information science and condensed matter theory
+    - year: 2020 
+      title: MA
+      institution: Stony Brook University, USA
+    - year: 2017
+      title: MA
+      institution: The University of Tokyo, Japan 
+      description: 
+        - High energy theory
+    - year: 2015
+      title: BSc
+      institution: The University of Tokyo, Japan 
       description:
-        - Description 1.
-        - Description 2.
+        - Experimental astrophysics
 
-- title: Experience
+- title: Teaching experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+     - year: 2020-2021
+       description: TA at Stony Brook University
+     - year: 2023
+       description: An invited lecture at a summer school held at Osaka University
+  
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
+      items: Sterman Travel Award (YITP, Stony Brook University)
+    - year: 2023
+      items: Peter Kahn Travel Award (Dept. of Physics & Astronomy, Stony Brook University)
+    - year: 2018
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Ito-FUTI scholarship award
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
-- title: Other Interests
-  type: list
+- title: Working experience
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: Part-time lecturer
+      institution: Waseda Academy Co.
+      year: 2011 - 2018
+      description:
+        - High school math and physics
+
+
+- title: Volunteer
+  type: time_table
+  contents:
+    - title: QuEST (Quantum Education for Students and Teachers)
+      year: 2023 - 2024
+      description: 
+        - Outreach activities. Quantum education for high school students in USA. Organized by Profs. Angela Kelly, Dominik Schneble, and Tzu-Chieh Wei
+
+    - title: Glocal Academy
+      year: 2018
+      description: Advisor at a high school student summer camp
+
+
+
