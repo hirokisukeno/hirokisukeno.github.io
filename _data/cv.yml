@@ -32,10 +32,11 @@
 - title: Teaching experience
   type: time_table
   contents:
-     - year: 2020-2021
-       description: TA at Stony Brook University
      - year: 2023
        description: An invited lecture at a summer school held at Osaka University
+     - year: 2020-2021
+       description: TA at Stony Brook University
+
   
 
 
@@ -48,7 +49,11 @@
       items: Peter Kahn Travel Award (Dept. of Physics & Astronomy, Stony Brook University)
     - year: 2018
       items:
-        - Ito-FUTI scholarship award
+        - Ito-FUTI Scholarship Award
+    - year: 2017
+      items:
+        - Outstanding Student Award (Department of Basic Science, The University of Tokyo)
+        - Full repayment exemption for academic excellence in the JASSO student loan program
 
 
 - title: Working experience
@@ -64,14 +69,17 @@
 - title: Volunteer
   type: time_table
   contents:
+    - title: C2QA QIS303 Quantum Error Mitigation Program
+      year: 2024
+      description:
+        - Volunteer program facilitator
     - title: QuEST (Quantum Education for Students and Teachers)
       year: 2023 - 2024
       description: 
-        - Outreach activities. Quantum education for high school students in USA. Organized by Profs. Angela Kelly, Dominik Schneble, and Tzu-Chieh Wei
-
+        - Outreach activities. Quantum education for high school students and teachers in USA. Organized by Profs. Angela Kelly, Dominik Schneble, and Tzu-Chieh Wei
     - title: Glocal Academy
       year: 2018
-      description: Advisor at a high school student summer camp
+      description: Advisor for research activity at a high school student summer camp
 
 
 

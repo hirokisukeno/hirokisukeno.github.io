@@ -28,17 +28,17 @@ latest_posts:
 
 I am a theoretical quantum physicist working in the field of condensed matter physics and quantum information science. 
 
-My research goal is to understand quantum entanglement and complexity and harness them for practical applications. These days, I am interested in relations between robust quantum information processing and stable quantum phases of matter. 
-I also like to think about when and how quantum devises become useful in realistic near-term setups. Therefore, I am curious about 
+My research goal is to understand quantum many-body physics and harness them for practical applications. These days, I am interested in relations between robust quantum information processing and stable quantum phases of matter. 
+I also like to think about when and how quantum devices become useful in realistic near-term setups. Therefore, I am curious about 
 - quantum simulations, 
 - quantum error corrections, 
 - topological phases, and 
 - delegated/private/distributed quantum information processing.    
 
-Relatedly, another aspect that excites me about current engineered quantum devices is their mid-circuit measurement capacities. 
+Relatedly, another aspect that excites me about current engineered quantum devices is their mid-circuit measurement capabilities. 
 In this regard, I am interested in:
 - how measurement can convert a quantum phase of matter to another, and 
-- how quantum many-body phases can be characterized as resources of measurement-based quantum computation.
+- how a quantum many-body phase can be characterized as a resource of measurement-based quantum computation.
 
 
 I am currently a Ph.D. candidate in Physics at the C. N. Yang Institute for Theoretical Physics (YITP) at Stony Brook University in New York. I'm receiving supervision of Professor Tzu-Chieh Wei. Prior to joining YITP, I was a graduate student at University of Tokyo and a part-time teacher in the Tokyo area. I worked on string field theory with Professor Yuji Okawa.
