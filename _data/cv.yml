@@ -6,10 +6,17 @@
     - name: Languages
       value: Japanese, English 
 
+- title: Positions
+  type: time_table
+  contents:
+    - year: June 2025 - present
+      title: FRHTP Postdoctoral Fellow
+      institution: Center for Quantum Information and Control, The University of New Mexico, USA 
+
 - title: Degree
   type: time_table
   contents:
-    - year: 2025 (expected)
+    - year: 2025
       title: PhD
       institution: Stony Brook University, USA
       description:

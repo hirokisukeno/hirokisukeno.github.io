@@ -2,15 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: A researcher in theoretical quantum physics working in NY, USA
+subtitle: A postdoctoral researcher in Quantum New Mexico Insitutute
 
 profile:
   align: right
   image: hsukeno_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>C. N. Yang Institute for Theoretical Physics</p>
-    <p>State University of New York at Stony Brook</p>
+    <p>Center for Quantum Information and Control</p>
+    <p>The University of New Mexico</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -28,19 +28,22 @@ latest_posts:
 
 I am a theoretical quantum physicist working in the field of condensed matter physics and quantum information science. 
 
-My research goal is to understand quantum many-body physics and harness them for practical applications. These days, I am interested in relations between robust quantum information processing and stable quantum phases of matter. 
-I also like to think about when and how quantum devices become useful in realistic near-term setups. Therefore, I am curious about 
-- quantum simulations, 
+My research goal is to understand and uncover new aspects in quantum many-body physics through the lens of quantum information processing. 
+Broadly speaking, I am interested in the following subjects:  
+- quantum simulation of lattice gauge theories, 
 - quantum error corrections, 
-- topological phases, and 
+- topological phases of matter and generalized global symmetries, 
+- dynamics of entanglement, and
 - delegated/private/distributed quantum information processing.    
 
-Relatedly, another aspect that excites me about current engineered quantum devices is their mid-circuit measurement capabilities. 
-In this regard, I am interested in:
-- how measurement can convert a quantum phase of matter to another, and 
-- how a quantum many-body phase can be characterized as a resource of measurement-based quantum computation.
+A key feature that excites me about current engineered quantum devices is their mid-circuit measurement capabilities. 
+My current research is focused on:
+- how measurement and feedback controls can convert a quantum phase to another,  
+- how a quantum many-body phase can be characterized as a resource of measurement-based quantum computation, and
+- operational use of string order parameters in short-range entangled states.
 
 
-I am currently a Ph.D. candidate in Physics at the C. N. Yang Institute for Theoretical Physics (YITP) at Stony Brook University in New York. I'm receiving supervision of Professor Tzu-Chieh Wei. Prior to joining YITP, I was a graduate student at University of Tokyo and a part-time teacher in the Tokyo area. I worked on string field theory with Professor Yuji Okawa.
+I am currently a Focused Research Hub for Theoretical Physics (FRHTP) postdoctoral fellow at Quantum New Mexico Institute (QNM-i), mainly working at Center for Quantum Information and Control (CQuIC) in The University of New Mexico. 
+I obtained a Ph.D. degree in Physics at the C. N. Yang Institute for Theoretical Physics (YITP) at Stony Brook University in New York. I received supervision of Professor Tzu-Chieh Wei, who has offered me a variety of research opportunities. Prior to joining YITP, I was a graduate student at University of Tokyo and a part-time teacher in the Tokyo area. I worked on string field theory with Professor Yuji Okawa.
 
 
