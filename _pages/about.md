@@ -26,16 +26,18 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral researcher in theoretical quantum physics, working on quantum many-body systems from the perspective of quantum information. My research focuses on phases of matter, (generalized) symmetries, and the dynamics of entanglement.
+I am a postdoctoral researcher in theoretical quantum physics.
+My research focuses on understanding nature with entanglement patterns as an organizing principle.
+I enjoy thinking about quantum circuits that have connections to high-energy theory, condensed matter physics, statistical physics, and related areas.
 
-A recurring theme in my work is the role of measurement. The availability of mid-circuit measurements in modern quantum devices provides a new setting in which many-body physics and quantum information can be explored beyond unitary dynamics.
+A recurring theme in my recent work is the role of measurement. The availability of mid-circuit measurements in modern quantum devices provides a new setting in which many-body physics and quantum information can be explored beyond unitary dynamics. My work has shown that the interplay between entanglement and measurement has surprising applications and intriguing implications across a broader range of physics, including the realization of quantum field theory.
 
 My recent work studies:
-- many-body phases and dynamics in adaptive quantum circuits,
-- structural aspects of measurement-based quantum computation,
-- the emergence of gauge structures in entangled systems, including dimensional hierarchy and bulk–boundary correspondence.
+- the construction of new entanglement patterns and their dynamics,
+- hidden gauge structures in measurement-based quantum computation,
+- practical aspects of adaptive quantum circuits.
 
-More broadly, I am interested in approaches that are conceptually clear and technically controlled, while remaining connected to physical realizations, particularly in AMO platforms. I also explore connections between these problems and ideas from high-energy theory, topological condensed matter physics, statistical physics, and so on.
+I am currently a Focused Research Hub for Theoretical Physics (FRHTP) postdoctoral fellow at the Quantum New Mexico Institute (QNM-i), based at the Center for Quantum Information and Control (CQuIC) at the University of New Mexico.
 
-I am currently a Focused Research Hub for Theoretical Physics (FRHTP) postdoctoral fellow at the Quantum New Mexico Institute (QNM-i), based at the Center for Quantum Information and Control (CQuIC) at the University of New Mexico. I received my Ph.D. in Physics from the C. N. Yang Institute for Theoretical Physics (YITP) at Stony Brook University under the supervision of Tzu-Chieh Wei. Prior to that, I studied at the University of Tokyo, where I worked on string field theory with Yuji Okawa and taught in the Tokyo area.
+I received my Ph.D. in Physics from the C. N. Yang Institute for Theoretical Physics (YITP) at Stony Brook University under the supervision of Tzu-Chieh Wei. Prior to that, I studied at the University of Tokyo, where I worked on string field theory with Yuji Okawa and taught high school students in the Tokyo area.
 
