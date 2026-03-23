@@ -30,11 +30,11 @@ I am a postdoctoral researcher in theoretical quantum physics.
 My research focuses on understanding nature with entanglement patterns as an organizing principle.
 I enjoy thinking about quantum circuits that have connections to high-energy theory, condensed matter physics, statistical physics, and related areas.
 
-A recurring theme in my recent work is the role of measurement. The availability of mid-circuit measurements in modern quantum devices provides a new setting in which many-body physics and quantum information can be explored beyond unitary dynamics. My work has shown that the interplay between entanglement and measurement has surprising applications and intriguing implications across a broader range of physics, including the realization of quantum field theory.
+A recurring theme in my recent work is the role of measurement. The availability of mid-circuit measurements in modern quantum devices provides a new setting in which many-body physics and quantum information can be explored beyond unitary dynamics. My work has shown that the interplay between entanglement and measurement has surprising applications and intriguing implications across a broader range of physics, including simulation of dynamics and phases in quantum field theory.
 
 My recent work studies:
 - the construction of new entanglement patterns and their dynamics,
-- hidden gauge structures in measurement-based quantum computation,
+- the measurement-based quantum simulation program,
 - practical aspects of adaptive quantum circuits.
 
 I am currently a Focused Research Hub for Theoretical Physics (FRHTP) postdoctoral fellow at the Quantum New Mexico Institute (QNM-i), based at the Center for Quantum Information and Control (CQuIC) at the University of New Mexico.
