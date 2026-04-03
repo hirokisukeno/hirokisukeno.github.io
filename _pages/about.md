@@ -27,10 +27,9 @@ latest_posts:
 ---
 
 I am a postdoctoral researcher in theoretical quantum physics.
-My research focuses on understanding nature with entanglement patterns as an organizing principle.
-I enjoy thinking about quantum circuits that have connections to high-energy theory, condensed matter physics, statistical physics, and related areas.
+Using entanglement patterns as an organizing principle, my research focuses on understanding collective and emergent phenomena in quantum many-body physics. 
 
-A recurring theme in my recent work is the role of measurement. The availability of mid-circuit measurements in modern quantum devices provides a new setting in which many-body physics and quantum information can be explored beyond unitary dynamics. My work has shown that the interplay between entanglement and measurement has surprising applications and intriguing implications across a broader range of physics, including simulation of dynamics and phases in quantum field theory.
+A recurring theme in my recent work is the role of measurement. The availability of mid-circuit measurements in modern quantum devices provides a new setting in which many-body physics and quantum information can be explored beyond unitary dynamics. My work has shown that the interplay between entanglement and measurement has applications and intriguing implications across a broader range of physics, including simulation of dynamics and phases in quantum many-body systems.
 
 My recent work studies:
 - the construction of new entanglement patterns and their dynamics,
