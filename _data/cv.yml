@@ -4,14 +4,14 @@
     - name: Full Name
       value: Hiroki Sukeno
     - name: Languages
-      value: Japanese, English 
+      value: Japanese, English
 
 - title: Positions
   type: time_table
   contents:
     - year: 2025/6 -
       title: FRHTP Postdoctoral Fellow
-      institution: Center for Quantum Information and Control, The University of New Mexico, USA 
+      institution: Center for Quantum Information and Control, The University of New Mexico, USA
 
 - title: Degree
   type: time_table
@@ -24,27 +24,24 @@
         - Quantum information science and condensed matter theory
     - year: 2017
       title: MA
-      institution: The University of Tokyo, Japan 
-      description: 
+      institution: The University of Tokyo, Japan
+      description:
         - High energy theory
     - year: 2015
       title: BSc
-      institution: The University of Tokyo, Japan 
+      institution: The University of Tokyo, Japan
       description:
         - Experimental astrophysics
 
 - title: Teaching experience
   type: time_table
   contents:
-     - year: 2023
-       description: An invited lecture at a summer school held at Osaka University
-     - year: 2020-2021
-       description: TA at Stony Brook University
-     - year: 2011-2018
-       description: Part-time lecturer for middle and high school students at Waseda Academy Co.
-
-  
-
+    - year: 2023
+      description: An invited lecture at a summer school held at Osaka University
+    - year: 2020-2021
+      description: TA at Stony Brook University
+    - year: 2011-2018
+      description: Part-time lecturer for middle and high school students at Waseda Academy Co.
 
 - title: Honors and Awards
   type: time_table
@@ -61,7 +58,6 @@
         - Outstanding Student Award (Department of Basic Science, The University of Tokyo)
         - Full repayment exemption for academic excellence in the JASSO student loan program
 
-
 - title: Work experience
   type: time_table
   contents:
@@ -70,7 +66,6 @@
       year: 2011 - 2018
       description:
         - High school math and physics
-
 
 - title: Volunteer and Academic Service
   type: time_table
@@ -85,12 +80,9 @@
         - Volunteer program facilitator
     - title: QuEST (Quantum Education for Students and Teachers)
       year: 2023 - 2024
-      description: 
+      description:
         - Outreach activities. Quantum education for high school students and teachers in USA. Organized by Profs. Angela Kelly, Dominik Schneble, and Tzu-Chieh Wei
     - title: Glocal Academy
       year: 2018
-      description: 
+      description:
         - Advisor for research activity at a high school student summer camp
-
-
-

@@ -13,7 +13,7 @@
       "city": "Stony Brook",
       "countryCode": "USA",
       "region": "New York"
-    },
+    }
   },
   "work": [
     {
@@ -29,28 +29,28 @@
     {
       "institution": "C. N. Yang Institute for Theoretical Physics, Stony Brook University",
       "location": "Stony Brook, New York, USA",
-      "url": "http://insti.physics.sunysb.edu/itp/www/",  
+      "url": "http://insti.physics.sunysb.edu/itp/www/",
       "area": "Quantum information theory and condensed matter physics",
-      "studyType": "PhD",             
-      "startDate": "2020-09-01",                    
+      "studyType": "PhD",
+      "startDate": "2020-09-01",
       "endDate": "Present"
     },
     {
-	  "institution": "The University of Tokyo",
-	  "location": "Komaba, Meguro, Tokyo, Japan",
-	  "url": "http://hep1.c.u-tokyo.ac.jp/",
-	  "area": "High energy theory",
-	  "studyType": "MA",
-	  "startDate": "2015-04",
-	  "endDate":"2017-03"
+      "institution": "The University of Tokyo",
+      "location": "Komaba, Meguro, Tokyo, Japan",
+      "url": "http://hep1.c.u-tokyo.ac.jp/",
+      "area": "High energy theory",
+      "studyType": "MA",
+      "startDate": "2015-04",
+      "endDate": "2017-03"
     },
     {
-    	"institution": "The University of Tokyo",
-    	"location": "Hongo, Bunkyo, Tokyo, Japan",
-    	"area":"Experimental astrophysics",
-    	"studyType":"BSc",
-    	"startDate":"2011-03",
-    	"endDate":"2015-03"
+      "institution": "The University of Tokyo",
+      "location": "Hongo, Bunkyo, Tokyo, Japan",
+      "area": "Experimental astrophysics",
+      "studyType": "BSc",
+      "startDate": "2011-03",
+      "endDate": "2015-03"
     }
   ],
   "languages": [
