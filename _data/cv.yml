@@ -41,8 +41,7 @@
      - year: 2020-2021
        description: TA at Stony Brook University
     -  year: 2011 - 2018
-      description:
-        - Part-time lecturer for middle and high school students at Waseda Academy Co.
+       description: Part-time lecturer for middle and high school students at Waseda Academy Co.
 
   
 
@@ -76,7 +75,7 @@
 - title: Volunteer and Academic Service
   type: time_table
   contents:
-      - title: Southwest Quantum Information and Technology
+    - title: Southwest Quantum Information and Technology
       year: 2025
       description:
         - Conference co-organizer
@@ -90,7 +89,8 @@
         - Outreach activities. Quantum education for high school students and teachers in USA. Organized by Profs. Angela Kelly, Dominik Schneble, and Tzu-Chieh Wei
     - title: Glocal Academy
       year: 2018
-      description: Advisor for research activity at a high school student summer camp
+      description: 
+        - Advisor for research activity at a high school student summer camp
 
 
 
