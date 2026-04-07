@@ -89,17 +89,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/pseudocode/";
         
       },
-    },{id: "post-a-post-with-code-diff",
-      
-        title: "a post with code diff",
-      
-      description: "this is how you can display code diffs",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/code-diff/";
-        
-      },
     },{id: "post-a-post-with-advanced-image-components",
       
         title: "a post with advanced image components",
@@ -188,39 +177,6 @@ ninja.data = [{
           window.location.href = "/blog/2023/jupyter-notebook/";
         
       },
-    },{id: "post-a-post-with-custom-blockquotes",
-      
-        title: "a post with custom blockquotes",
-      
-      description: "an example of a blog post with custom blockquotes",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/custom-blockquotes/";
-        
-      },
-    },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
-      
-        title: "a post with table of contents on a sidebar",
-      
-      description: "an example of a blog post with table of contents on a sidebar",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/sidebar-table-of-contents/";
-        
-      },
-    },{id: "post-a-post-with-audios",
-      
-        title: "a post with audios",
-      
-      description: "this is what included audios could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/audios/";
-        
-      },
     },{id: "post-a-post-with-videos",
       
         title: "a post with videos",
@@ -241,17 +197,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2023/tables/";
-        
-      },
-    },{id: "post-a-post-with-table-of-contents",
-      
-        title: "a post with table of contents",
-      
-      description: "an example of a blog post with table of contents",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/table-of-contents/";
         
       },
     },{id: "post-a-post-with-giscus-comments",
@@ -342,17 +287,6 @@ ninja.data = [{
           window.location.href = "/blog/2015/math/";
         
       },
-    },{id: "post-a-post-with-code",
-      
-        title: "a post with code",
-      
-      description: "an example of a blog post with some code",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/code/";
-        
-      },
     },{id: "post-a-post-with-images",
       
         title: "a post with images",
@@ -362,17 +296,6 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2015/images/";
-        
-      },
-    },{id: "post-a-post-with-formatting-and-links",
-      
-        title: "a post with formatting and links",
-      
-      description: "march &amp; april, looking forward to summer",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/formatting-and-links/";
         
       },
     },{id: "news-i-created-a-new-website",
@@ -397,11 +320,6 @@ ninja.data = [{
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
